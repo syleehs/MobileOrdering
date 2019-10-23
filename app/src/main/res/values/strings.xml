@@ -3,4 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Order</string>
     <string name="title_notifications">Store</string>
+    <string name="button_coffee">Coffee</string>
+    <string name="button_food">Food</string>
+    <string name="button_snack">Snacks and Desserts</string>
 </resources>
